@@ -1,0 +1,5 @@
+.vercel
+.env*
+
+# Added by ML AI Code: build output and caches
+*.tsbuildinfo
